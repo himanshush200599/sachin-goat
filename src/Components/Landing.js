@@ -3,7 +3,9 @@ function Landing() {
   return (
     <main id="main">
       <h1 id="title">Sachin Tendulkar -The Greatest of All Time</h1>
-      <p>The man who known as GOD OF CRICKET</p>
+      <p>
+        The man who got the title <strong>"GOD OF CRICKET"</strong>
+      </p>
       <figure id="img-div">
         <img
           id="image"
