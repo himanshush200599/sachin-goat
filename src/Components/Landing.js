@@ -9,7 +9,7 @@ function Landing() {
       <figure id="img-div">
         <img
           id="image"
-          src="/assests/sachin.jpg"
+          src="assests/sachin.jpg"
           alt="One of the sachin best Innings"
         />
         <figcaption id="img-caption">

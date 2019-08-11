@@ -4,7 +4,7 @@ import data from "./sachin.json";
 import Landing from "./Components/Landing";
 import Graphs from "./Components/Graphs";
 function App() {
-  console.log(data);
+  // console.log(data);
   return (
     <>
       <Landing />
