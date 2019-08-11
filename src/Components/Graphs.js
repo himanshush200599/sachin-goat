@@ -1,5 +1,5 @@
 import React from "react";
-import { Bar, Line, Doughnut } from "react-chartjs-2";
+import { Bar, Pie, Line } from "react-chartjs-2";
 function Graphs({ data }) {
   const labels = Array(463);
   for (let i = 0; i <= 463; i++) labels[i] = i;
@@ -76,7 +76,7 @@ function Graphs({ data }) {
       <h3>Wickets Taken by Sachin </h3>
       <Bar data={data2} />
       <h3>Match Result When Sachin played in Team</h3>
-      <Doughnut data={data3} />
+      <Pie data={data3} />
     </>
   );
 }
