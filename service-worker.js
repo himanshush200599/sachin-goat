@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sachin-goat/precache-manifest.ab4ace20138f66a53b53a578f604865d.js"
+  "/sachin-goat/precache-manifest.8b383703dbc57ec705b8d4582eb2d402.js"
 );
 
 self.addEventListener('message', (event) => {
