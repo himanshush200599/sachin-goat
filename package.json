@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://himanshush200599.github.io/sachin-goat/",
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
     "react-chartjs-2": "^2.7.6",
